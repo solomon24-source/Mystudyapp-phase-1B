@@ -1,2 +1,9 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
 rootProject.name = "Mystudyapp-phase-1B"
 include ':app'
