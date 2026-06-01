@@ -1,0 +1,11 @@
+{
+  "name": "mystudyapp-web",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Web build ready'"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
